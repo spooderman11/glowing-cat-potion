@@ -215,7 +215,7 @@ export default function StarfieldPortfolio() {
                   <AvatarFallback>SP</AvatarFallback>
                 </Avatar>
                 <div>
-                  <CardTitle className="text-3xl">Spoody</CardTitle>
+                  <CardTitle className="text-3xl">Target</CardTitle>
                   <CardDescription className="text-xl">
                     <Typewriter texts={["Web Developer", "Full Stack Engineer", "UI/UX Enthusiast"]} />
                   </CardDescription>
